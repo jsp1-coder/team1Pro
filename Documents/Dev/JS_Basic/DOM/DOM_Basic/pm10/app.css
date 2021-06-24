@@ -1,0 +1,15 @@
+.매우나쁨 {
+    background-color: red /*transparent*/
+}
+
+.나쁨 {
+    background-color: rgba(252, 39, 39, 0.3); /*transparent*/
+}
+
+.좋음 {
+    background-color: royalblue;
+}
+
+.보통 {
+    background-color: rgba(0,255,0,0.3); /*transparent*/
+}
